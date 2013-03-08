@@ -420,3 +420,27 @@
 {"level":"notice","message":"*** Server Started @ 2013-03-08 17:18:09 ***","timestamp":"2013-03-08T09:18:09.020Z"}
 {"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-08T09:19:31.755Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-08T09:19:31.759Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-03-08T09:25:16.152Z"}
+{"level":"notice","message":"server ID: 192.168.1.177:8000:5000","timestamp":"2013-03-08T09:25:16.302Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-08 17:25:16 ***","timestamp":"2013-03-08T09:25:16.302Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-08T09:25:16.796Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-08T09:25:16.807Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-03-08T09:27:19.548Z"}
+{"level":"notice","message":"server ID: 192.168.1.177:8000:5000","timestamp":"2013-03-08T09:27:19.728Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-08 17:27:19 ***","timestamp":"2013-03-08T09:27:19.728Z"}
+{"to":"192.168.1.141","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T09:27:32.248Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T09:27:33.634Z"}
+{"to":"192.168.1.141","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T09:27:43.213Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-08T09:27:50.456Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-08T09:27:50.524Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-03-08T09:29:17.610Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-03-08T09:29:17.629Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-03-08T09:29:17.690Z"}
+{"level":"info","message":"running custom initalizer: _project","timestamp":"2013-03-08T09:29:17.756Z"}
+{"level":"notice","message":"pid: 21724","timestamp":"2013-03-08T09:29:17.758Z"}
+{"level":"notice","message":"starting 5 task timers","timestamp":"2013-03-08T09:29:17.759Z"}
+{"level":"notice","message":"webSockets bound to 8000","timestamp":"2013-03-08T09:29:17.829Z"}
+{"level":"notice","message":"web server listening on 0.0.0.0:8000","timestamp":"2013-03-08T09:29:17.839Z"}
+{"level":"notice","message":"tcp server listening on 0.0.0.0:5000","timestamp":"2013-03-08T09:29:17.839Z"}
+{"level":"notice","message":"server ID: 192.168.1.177:8000:5000","timestamp":"2013-03-08T09:29:17.845Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-08 17:29:17 ***","timestamp":"2013-03-08T09:29:17.845Z"}
