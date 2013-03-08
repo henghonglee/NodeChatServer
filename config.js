@@ -80,7 +80,7 @@ configData.logger = {
 configData.redis = {
   "enable": true,
   "host": "redis://redistogo:5ff3512ae6a8ca87296680f12dbe5100@dory.redistogo.com",
-  "port": :10572,
+  "port": 10572,
   "password": "5ff3512ae6a8ca87296680f12dbe5100",
   "options": null,
   "DB": 0
