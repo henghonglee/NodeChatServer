@@ -1,0 +1,409 @@
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T05:59:17.769Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T05:59:20.733Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T05:59:38.567Z"}
+{"to":"127.0.0.1","params":"[\"changeRoom\"]","action":"changeRoom","duration":1,"error":"Error: changeRoom is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:00:01.743Z"}
+{"to":"127.0.0.1","params":"[\"ChangeRoom\"]","action":"ChangeRoom","duration":1,"error":"Error: ChangeRoom is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:00:05.127Z"}
+{"to":"127.0.0.1","params":"[\"randomNumber\"]","action":"randomNumber","duration":1,"error":"Error: randomNumber is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:02:19.463Z"}
+{"to":"127.0.0.1","params":"[\"cacheTest\"]","action":"cacheTest","duration":1,"error":"Error: cacheTest is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:02:52.116Z"}
+{"to":"127.0.0.1","params":"[\"\\u001b[A\"]","action":"\u001b[A","duration":0,"error":"Error: \u001b[A is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:02:57.332Z"}
+{"to":"127.0.0.1","params":"[\"\\u001b[B\"]","action":"\u001b[B","duration":0,"error":"Error: \u001b[B is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:02:58.402Z"}
+{"to":"127.0.0.1","params":"[\"\\u001b\"]","action":"\u001b","duration":0,"error":"Error: \u001b is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:03:02.099Z"}
+{"to":"127.0.0.1","params":"[\"\\u001b\\u001b\"]","action":"\u001b\u001b","duration":0,"error":"Error: \u001b\u001b is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:03:10.532Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:03:28.835Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:04:06.128Z"}
+{"to":"127.0.0.1","params":"[\"chat\"]","action":"chat","duration":1,"error":"Error: this action does not support the socketconnection type","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:04:23.594Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:04:52.838Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:04:52.840Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:04:52.855Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:04:52.859Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:04:53.938Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:04:56.523Z"}
+{"to":"127.0.0.1","params":"[\"actionsView\"]","action":"actionsView","duration":1,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:05:20.663Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:05:40.570Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView","params":"{\"method\":\"roomView\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:06:12.652Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:06:12.908Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=helloworld","params":"{\"method\":\"say\",\"message\":\"helloworld\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:06:31.260Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:06:31.348Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:06:45.528Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:06:45.530Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:06:45.545Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:06:46.512Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:06:50.439Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:06:54.995Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView","params":"{\"method\":\"roomView\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:03.728Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:03.847Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView","params":"{\"method\":\"roomView\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:17.393Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:17.449Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat","params":"{\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: method is a required parameter for this action","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:22.454Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:22.534Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:30.037Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView","params":"{\"method\":\"roomView\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:32.531Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:07:32.689Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:08:05.687Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:08:31.316Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:08:31.318Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:08:31.324Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:08:31.324Z"}
+{"level":"error","message":"socket error: Error: This socket is closed.","timestamp":"2013-02-20T06:08:31.325Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:08:32.468Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: chatting via web clients is not enabled","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:08:42.133Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:10:26.396Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:10:26.398Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:10:28.347Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:10:32.623Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:10:34.695Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView","params":"{\"method\":\"roomView\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:10:38.836Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:10:38.949Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:10:49.509Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:10:49.583Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:10:57.164Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:11:15.200Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:11:15.315Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:11:49.913Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":0,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:12:22.205Z"}
+{"to":"127.0.0.1","params":"[\"Messages\"]","action":"Messages","duration":1,"error":"Error: Messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:12:30.100Z"}
+{"to":"127.0.0.1","params":"[\"message\"]","action":"message","duration":0,"error":"Error: message is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:12:32.999Z"}
+{"to":"127.0.0.1","params":"[\"message\"]","action":"message","duration":0,"error":"Error: message is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:12:37.550Z"}
+{"to":"127.0.0.1","params":"[\"roomStatus\"]","action":"roomStatus","duration":0,"error":"Error: roomStatus is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:12:57.019Z"}
+{"to":"127.0.0.1","params":"[\"viewParam\"]","action":"viewParam","duration":1,"error":"Error: viewParam is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:13:51.378Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:14:45.619Z"}
+{"level":"notice","message":"web server listening on 0.0.0.0:8000","timestamp":"2013-02-20T06:14:45.645Z"}
+{"level":"notice","message":"tcp server listening on 0.0.0.0:5000","timestamp":"2013-02-20T06:14:45.645Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T06:14:45.646Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 14:14:45 ***","timestamp":"2013-02-20T06:14:45.646Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:14:47.677Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:15:29.441Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&messages=from%20Web%20Client","params":"{\"method\":\"say\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":4,"error":"Error: message is required to use the say method","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:16:26.893Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:16:27.012Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client","params":"{\"method\":\"say\",\"message\":\"from Web Client\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:16:37.406Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:16:37.534Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:16:58.610Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client%20again","params":"{\"method\":\"say\",\"message\":\"from Web Client again\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:17:04.978Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:17:05.087Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client%20again","params":"{\"method\":\"say\",\"message\":\"from Web Client again\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":4,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:17:16.466Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:17:16.570Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:18:15.877Z"}
+{"to":"127.0.0.1","params":"[\"message\"]","action":"message","duration":1,"error":"Error: message is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:18:18.803Z"}
+{"to":"127.0.0.1","params":"[\"getmessage\"]","action":"getmessage","duration":0,"error":"Error: getmessage is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:18:22.721Z"}
+{"to":"127.0.0.1","params":"[\"getMessages\"]","action":"getMessages","duration":0,"error":"Error: getMessages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:18:26.178Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":0,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:21:00.242Z"}
+{"to":"127.0.0.1","params":"[\"status\"]","action":"status","duration":1,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:22:34.036Z"}
+{"to":"127.0.0.1","params":"[\"status\"]","action":"status","duration":1,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:22:42.054Z"}
+{"to":"127.0.0.1","params":"[\"actionsView\"]","action":"actionsView","duration":0,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:23:52.897Z"}
+{"to":"127.0.0.1","params":"[\"chat\",\"messages\"]","action":"chat","duration":0,"error":"Error: this action does not support the socketconnection type","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:24:11.353Z"}
+{"to":"127.0.0.1","params":"[\"chat\"]","action":"chat","duration":1,"error":"Error: this action does not support the socketconnection type","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:24:14.495Z"}
+{"to":"127.0.0.1","params":"[\"roomStatus\"]","action":"roomStatus","duration":0,"error":"Error: roomStatus is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:24:52.733Z"}
+{"to":"127.0.0.1","params":"[\"chatAction\"]","action":"chatAction","duration":1,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:25:49.532Z"}
+{"to":"127.0.0.1","params":"[\"status\"]","action":"status","duration":0,"error":"null","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:25:55.034Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":1,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:26:45.538Z"}
+{"to":"127.0.0.1","params":"[\"paramsAdd\",\"method=messages\"]","action":"paramsAdd","duration":0,"error":"Error: paramsAdd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:27:16.311Z"}
+{"to":"127.0.0.1","params":"[\"chat\"]","action":"chat","duration":1,"error":"Error: this action does not support the socketconnection type","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:27:40.846Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-20T06:29:04.897Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:29:04.911Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:29:19.051Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:31:09.306Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:31:09.308Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:31:09.323Z"}
+{"level":"error","message":"socket error: Error: write EPIPE","timestamp":"2013-02-20T06:31:09.323Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:31:10.576Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:31:13.424Z"}
+{"to":"127.0.0.1","params":"[\"messages\"]","action":"messages","duration":0,"error":"Error: messages is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:31:15.980Z"}
+{"to":"127.0.0.1","params":"[\"chat\"]","action":"chat","duration":1,"error":"Error: this action does not support the socketconnection type","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:31:19.794Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-20T06:31:43.545Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:31:43.547Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:31:46.588Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:31:46.590Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T06:31:47.645Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client%20again&room=defaultRoom","params":"{\"method\":\"say\",\"room\":\"defaultRoom\",\"message\":\"from Web Client again\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:32:15.778Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:32:15.901Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:32:34.762Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client%20again&room=defaultRoom","params":"{\"method\":\"say\",\"room\":\"defaultRoom\",\"message\":\"from Web Client again\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:32:38.501Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:32:38.583Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:32:53.704Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-20T06:33:03.284Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:33:03.286Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:33:04.795Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client%20again&room=defaultRoom","params":"{\"method\":\"say\",\"room\":\"defaultRoom\",\"message\":\"from Web Client again\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:33:13.876Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:33:13.992Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=roomView&room=defaultRoom","params":"{\"method\":\"roomView\",\"room\":\"defaultRoom\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:33:37.114Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:33:37.188Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages&room=defaultRoom","params":"{\"method\":\"messages\",\"room\":\"defaultRoom\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:02.402Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:02.519Z"}
+{"to":"127.0.0.1","params":"[\"hello\"]","action":"hello","duration":0,"error":"Error: hello is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T06:34:07.418Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages&room=defaultRoom","params":"{\"method\":\"messages\",\"room\":\"defaultRoom\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:12.602Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:12.791Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=messages","params":"{\"method\":\"messages\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:58.179Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T06:34:58.295Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-20T06:41:41.839Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:41:41.845Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:41:42.598Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-20T06:50:39.571Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:50:39.574Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:50:43.411Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:50:43.422Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:50:43.440Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-20T06:52:37.991Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T06:52:38.010Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 14:52:38 ***","timestamp":"2013-02-20T06:52:38.010Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T06:53:11.729Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T06:56:21.569Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T06:56:21.587Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T06:56:21.603Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-20T07:01:31.933Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T07:01:31.989Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 15:01:31 ***","timestamp":"2013-02-20T07:01:31.989Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T08:29:07.732Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T08:29:09.010Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T08:29:09.507Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T08:29:09.844Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":0,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T08:29:10.161Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat/?method=say&message=from%20Web%20Client","params":"{\"method\":\"say\",\"message\":\"from Web Client\",\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":6,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T08:33:01.695Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T08:33:01.783Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T09:24:06.635Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T09:24:06.655Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T09:24:06.657Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-20T09:24:08.062Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T09:24:08.100Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 17:24:08 ***","timestamp":"2013-02-20T09:24:08.101Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T09:24:11.921Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:24:13.288Z"}
+{"to":"127.0.0.1","params":"[\"s\"]","action":"s","duration":1,"error":"Error: s is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:24:27.377Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:24:27.733Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:24:28.058Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T09:26:50.922Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T09:26:50.946Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T09:26:50.949Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-20T09:26:52.648Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T09:26:52.669Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 17:26:52 ***","timestamp":"2013-02-20T09:26:52.669Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T09:26:54.621Z"}
+{"to":"127.0.0.1","params":"[\"asdasd\"]","action":"asdasd","duration":1,"error":"Error: asdasd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:04.213Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":1,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:04.513Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":0,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:04.785Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":0,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:05.065Z"}
+{"to":"127.0.0.1","params":"[\"asd\"]","action":"asd","duration":0,"error":"Error: asd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:05.354Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T09:27:35.864Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T09:27:35.896Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T09:27:35.934Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-20T09:27:37.145Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-20T09:27:37.172Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-20 17:27:37 ***","timestamp":"2013-02-20T09:27:37.172Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-20T09:27:40.828Z"}
+{"to":"127.0.0.1","params":"[\"asdawda\"]","action":"asdawda","duration":1,"error":"Error: asdawda is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-20T09:27:43.224Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T10:18:58.665Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T10:18:58.687Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-20T10:18:58.690Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T02:43:49.066Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:44:34.439Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:44:55.158Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:44:58.495Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-21T02:46:32.635Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:46:32.639Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:46:35.269Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-21T02:46:46.058Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:46:46.061Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:47:00.512Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:47:07.868Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:47:17.789Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:47:19.247Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:47:43.260Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:47:46.408Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:47:49.020Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:48:00.658Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T02:48:11.802Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T02:48:23.969Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:01:13.293Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:01:14.247Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:01:21.363Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:01:21.375Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:01:21.382Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:01:21.395Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:01:22.383Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:01:22.402Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:01:22 ***","timestamp":"2013-02-21T03:01:22.402Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:01:24.982Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:01:27.484Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:01:30.724Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:10:55.205Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-21T03:10:59.961Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:10:59.965Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-21T03:11:02.346Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:11:02.351Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:11:05.311Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:11:05.314Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:11:07.053Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:11:07.086Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:11:07 ***","timestamp":"2013-02-21T03:11:07.087Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:11:09.942Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:11:11.078Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:11:12.116Z"}
+{"to":"127.0.0.1","params":"[\"roomchange\",\"fbroom\"]","action":"roomchange","duration":1,"error":"Error: roomchange is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-21T03:11:54.243Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:16:19.315Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:22:38.019Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:22:38.036Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:22:38.037Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:22:38.038Z"}
+{"level":"error","message":"socket error: Error: This socket is closed.","timestamp":"2013-02-21T03:22:38.038Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:22:39.045Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:22:39.077Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:22:39 ***","timestamp":"2013-02-21T03:22:39.077Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:22:42.940Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:22:45.175Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:22:47.654Z"}
+{"to":"127.0.0.1","params":"[\"paramsAdd\",\"fbid=henghonglee\"]","action":"paramsAdd","duration":3,"error":"Error: paramsAdd is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-21T03:22:57.481Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:41:28.550Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:41:28.571Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:41:28.573Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:41:28.573Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:41:28.574Z"}
+{"level":"error","message":"socket error: Error: This socket is closed.","timestamp":"2013-02-21T03:41:28.574Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:43:07.990Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:43:08.036Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:43:08 ***","timestamp":"2013-02-21T03:43:08.037Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:43:12.150Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:43:27.254Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:43:39.169Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:46:08.720Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:46:08.739Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:46:08.741Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:46:08.742Z"}
+{"level":"error","message":"socket error: Error: This socket is closed.","timestamp":"2013-02-21T03:46:08.743Z"}
+{"level":"error","message":"socket error: Error: This socket is closed.","timestamp":"2013-02-21T03:46:08.744Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:46:08.744Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:46:10.211Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:46:10.264Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:46:10 ***","timestamp":"2013-02-21T03:46:10.264Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:46:14.237Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:48:31.494Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:48:31.500Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:48:31.501Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:48:32.836Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:48:32.865Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:48:32 ***","timestamp":"2013-02-21T03:48:32.865Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:48:39.802Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:49:58.689Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:49:58.697Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:49:58.699Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:49:59.694Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:49:59.732Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:49:59 ***","timestamp":"2013-02-21T03:49:59.732Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:50:01.943Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:50:52.863Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:50:52.878Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:50:52.880Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:50:53.926Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:50:53.968Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:50:53 ***","timestamp":"2013-02-21T03:50:53.968Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:50:56.299Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T03:54:49.241Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T03:54:49.262Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T03:54:49.263Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T03:54:50.264Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T03:54:50.293Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 11:54:50 ***","timestamp":"2013-02-21T03:54:50.293Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T03:54:51.998Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T07:26:41.501Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-02-21T07:26:41.506Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T07:26:41.512Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T07:26:41.515Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T07:26:42.833Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T07:26:42.855Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 15:26:42 ***","timestamp":"2013-02-21T07:26:42.856Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T07:26:46.130Z"}
+{"to":"127.0.0.1","params":"[\"changeRoom\",\"facebook\"]","action":"changeRoom","duration":10,"error":"Error: changeRoom is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-21T07:27:00.047Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T07:27:38.989Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T07:28:46.438Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-02-21T07:28:46.452Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T07:28:46.453Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T07:28:54.578Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T07:28:54.609Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 15:28:54 ***","timestamp":"2013-02-21T07:28:54.609Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T07:29:01.521Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T07:38:29.872Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T07:38:29.875Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T07:38:29.892Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T07:38:32.950Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T07:38:32.971Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 15:38:32 ***","timestamp":"2013-02-21T07:38:32.971Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T07:38:35.015Z"}
+{"to":"127.0.0.1","params":"[\"changeRoom\",\"facebook1\"]","action":"changeRoom","duration":2,"error":"Error: changeRoom is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-21T07:39:11.337Z"}
+{"to":"127.0.0.1","level":"info","message":"[ quit @ socket ]","timestamp":"2013-02-21T07:40:54.135Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T07:40:54.141Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T07:40:55.613Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T08:45:18.488Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T08:45:19.182Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T08:45:29.957Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T08:45:48.450Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-02-21T08:45:48.463Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T08:45:48.464Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T08:45:50.462Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T08:45:50.481Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 16:45:50 ***","timestamp":"2013-02-21T08:45:50.481Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T08:46:20.884Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:31:52.859Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:31:54.003Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:31:55.487Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T09:32:04.375Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T09:32:04.383Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T09:34:20.847Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T09:34:20.866Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 17:34:20 ***","timestamp":"2013-02-21T09:34:20.867Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:34:43.834Z"}
+{"to":"127.0.0.1","params":"[\"\\u001b[A\"]","action":"\u001b[A","duration":0,"error":"Error: \u001b[A is not a known action.","level":"info","message":"[ action @ socket ]","timestamp":"2013-02-21T09:36:54.856Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:37:39.337Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T09:37:52.503Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-02-21T09:37:52.505Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T09:37:52.506Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T09:37:53.647Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T09:37:53.679Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 17:37:53 ***","timestamp":"2013-02-21T09:37:53.680Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:37:59.311Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:43:07.902Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:43:08.506Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T09:45:26.340Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T09:45:26.359Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:45:26.360Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T09:45:27.746Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T09:45:27.783Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 17:45:27 ***","timestamp":"2013-02-21T09:45:27.784Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:45:31.248Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:46:35.332Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:46:36.639Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T09:47:36.669Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T09:47:36.678Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T09:47:36.680Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T09:47:37.797Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T09:47:37.816Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 17:47:37 ***","timestamp":"2013-02-21T09:47:37.816Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T09:47:39.426Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T10:05:01.054Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T10:05:01.061Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T10:05:01.062Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T10:05:02.218Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T10:05:02.241Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 18:05:02 ***","timestamp":"2013-02-21T10:05:02.241Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T10:05:04.696Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T10:07:03.634Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T10:07:07.518Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T10:07:07.525Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T10:07:08.512Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T10:07:08.543Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 18:07:08 ***","timestamp":"2013-02-21T10:07:08.543Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T10:07:11.427Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T10:07:31.266Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T10:07:31.288Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 18:07:31 ***","timestamp":"2013-02-21T10:07:31.289Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T10:07:33.611Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T10:08:13.754Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T10:08:13.774Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 18:08:13 ***","timestamp":"2013-02-21T10:08:13.774Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T10:08:14.726Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-02-21T10:09:25.036Z"}
+{"level":"notice","message":"server ID: 192.168.1.112:8000:5000","timestamp":"2013-02-21T10:09:25.059Z"}
+{"level":"notice","message":"*** Server Started @ 2013-02-21 18:09:25 ***","timestamp":"2013-02-21T10:09:25.059Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-02-21T10:09:28.171Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-21T10:10:09.324Z"}
+{"level":"error","message":"peer: 192.168.1.112:8000:5000 has gone away","timestamp":"2013-02-21T11:27:24.377Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-21T11:34:27.810Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-02-21T11:34:27.823Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-21T11:34:27.825Z"}

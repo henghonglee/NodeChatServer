@@ -1,0 +1,32 @@
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T02:57:09.717Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":3,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T02:57:22.331Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T02:57:22.458Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T02:59:22.794Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T02:59:22.796Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T03:01:13.431Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":2,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T03:01:15.764Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T03:01:15.989Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T03:01:24.860Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T03:17:18.716Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T03:17:18.718Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T05:50:14.116Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:50:46.958Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:50:47.261Z"}
+{"to":"127.0.0.1","action":"status","request":"localhost:8000/status","params":"{\"action\":\"status\",\"limit\":100,\"offset\":0}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:30.859Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:30.969Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat","params":"{\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: method is a required parameter for this action","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:35.060Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:35.212Z"}
+{"to":"127.0.0.1","action":"chat","request":"localhost:8000/chat","params":"{\"action\":\"chat\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: method is a required parameter for this action","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:46.477Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-02-20T05:51:46.591Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T05:52:35.131Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T05:52:35.132Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T05:52:36.672Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T05:53:26.698Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T05:53:26.700Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T05:53:28.561Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T05:53:35.033Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T05:53:35.035Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-02-20T05:53:35.385Z"}
+{"level":"notice","message":"running without redis","timestamp":"2013-02-20T05:53:55.821Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-20T05:59:16.800Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-20T05:59:16.802Z"}
