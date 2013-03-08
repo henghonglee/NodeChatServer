@@ -80,7 +80,7 @@ configData.logger = {
 configData.redis = {
   "enable": true,
   "host": "127.0.0.1",
-  "port": 6379,
+  "port": 10572,
   "password": null,
   "options": null,
   "DB": 0
