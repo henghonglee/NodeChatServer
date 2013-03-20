@@ -133,7 +133,7 @@ configData.commonWeb = {
 configData.httpServer = {
   "enable": true,
   "secure": false,
-  "port": 8080,
+  "port": 8000,
   "bindIP": "0.0.0.0", // which IP to listen on (use 0.0.0.0 for all)
   "keyFile": "./certs/server-key.pem", // only for secure = true
   "certFile": "./certs/server-cert.pem" // only for secure = true

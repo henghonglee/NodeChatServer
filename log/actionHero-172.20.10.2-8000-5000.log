@@ -93,3 +93,70 @@
 {"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-20T08:17:56.904Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-20T08:17:57.416Z"}
 {"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-03-20T08:18:40.941Z"}
+{"level":"notice","message":"connected to redis @ pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com:11642 on DB #0","timestamp":"2013-03-20T10:00:42.228Z"}
+{"level":"notice","message":"server ID: 172.20.10.2:8000:5000","timestamp":"2013-03-20T10:00:44.198Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-20 18:00:42 ***","timestamp":"2013-03-20T10:00:44.199Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:01:01.808Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:01:19.779Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:02:06.298Z"}
+{"level":"error","message":"peer: 10.242.217.146:8080:5000 has gone away","timestamp":"2013-03-20T10:02:58.599Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:03:27.298Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:04:30.188Z"}
+{"to":"172.20.10.2","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-20T10:05:23.705Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-20T10:05:32.595Z"}
+{"level":"error","message":"peer: 10.242.217.146:8080:5000 has gone away","timestamp":"2013-03-20T10:05:48.588Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-03-20T10:05:59.406Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-20T10:06:00.457Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-20T10:06:00.910Z"}
+{"level":"notice","message":"connected to redis @ pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com:11642 on DB #0","timestamp":"2013-03-20T10:06:06.201Z"}
+{"level":"notice","message":"server ID: 172.20.10.2:8000:5000","timestamp":"2013-03-20T10:06:07.678Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-20 18:06:06 ***","timestamp":"2013-03-20T10:06:07.679Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:06:42.648Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:07:36.058Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:08:01.488Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:08:30.577Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:09:10.739Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:09:17.310Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:09:24.398Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:09:50.617Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:10:08.817Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:11:47.404Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:11:54.546Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:12:36.979Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:12:43.986Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:12:54.050Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:15:15.096Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:15:25.075Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:15:56.455Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:16:04.685Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:16:33.977Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:16:58.245Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:17:23.944Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:18:44.576Z"}
+{"level":"error","message":"peer: 10.242.217.146:8080:5000 has gone away","timestamp":"2013-03-20T10:19:19.837Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:19:36.016Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:19:59.175Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:20:50.436Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:22:16.637Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:22:24.504Z"}
+{"level":"error","message":"peer: 10.242.217.146:8080:5000 has gone away","timestamp":"2013-03-20T10:22:32.683Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:23:08.244Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:23:37.315Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:23:57.666Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:24:10.740Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:24:17.437Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:25:12.124Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:26:15.094Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:26:44.739Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:27:13.928Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:27:43.113Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:27:55.224Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:28:13.946Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:30:14.783Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:30:26.605Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:31:02.024Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:31:39.363Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:31:51.874Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:32:21.642Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:32:35.733Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T10:32:54.151Z"}
