@@ -1,0 +1,35 @@
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-03-08T15:17:53.496Z"}
+{"level":"info","message":"running custom initalizer: _project","timestamp":"2013-03-08T15:17:53.592Z"}
+{"level":"notice","message":"pid: 23970","timestamp":"2013-03-08T15:17:53.600Z"}
+{"level":"notice","message":"starting 5 task timers","timestamp":"2013-03-08T15:17:53.602Z"}
+{"level":"notice","message":"webSockets bound to 8000","timestamp":"2013-03-08T15:17:53.605Z"}
+{"to":"192.168.1.3","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T15:18:51.191Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:18:53.048Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:18:53.050Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:18:53.051Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:18:53.053Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:21:39.260Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T15:22:03.209Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:22:12.063Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:22:20.905Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:22:29.229Z"}
+{"to":"192.168.1.3","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T15:22:52.100Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:22:54.308Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:07.659Z"}
+{"to":"192.168.1.3","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T15:23:15.822Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:16.819Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:16.821Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:16.824Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:16.824Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:27.598Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:23:32.850Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:26:35.451Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:45:12.135Z"}
+{"to":"192.168.1.3","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T15:46:16.551Z"}
+{"to":"192.168.1.3","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T15:46:33.162Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:46:34.568Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-08T15:46:34.670Z"}
+{"to":"192.168.1.3","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-08T16:47:38.055Z"}
+{"to":"192.168.1.3","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T16:48:00.351Z"}
+{"to":"192.168.1.3","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T16:48:00.405Z"}
+{"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-03-08T20:10:17.947Z"}

@@ -77,3 +77,19 @@
 {"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-20T07:18:47.218Z"}
 {"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-20T07:18:47.677Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-20T07:18:48.204Z"}
+{"level":"notice","message":"connected to redis @ pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com:11642 on DB #0","timestamp":"2013-03-20T08:13:23.802Z"}
+{"level":"notice","message":"server ID: 172.20.10.2:8000:5000","timestamp":"2013-03-20T08:13:25.035Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-20 16:13:23 ***","timestamp":"2013-03-20T08:13:25.036Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":3,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-03-20T08:13:44.243Z"}
+{"to":"127.0.0.1","action":"favicon.ico","request":"localhost:8000/favicon.ico","params":"{\"action\":\"favicon.ico\",\"limit\":100,\"offset\":0}","duration":1,"error":"Error: favicon.ico is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-03-20T08:13:44.400Z"}
+{"to":"127.0.0.1","action":"{no action}","request":"localhost:8000/","params":"{\"action\":\"\",\"limit\":100,\"offset\":0}","duration":0,"error":"Error: {no action} is not a known action.","level":"info","message":"[ action @ web ]","timestamp":"2013-03-20T08:14:28.382Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:14:55.136Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:15:41.774Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:15:53.964Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:16:06.459Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:16:58.024Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T08:17:15.791Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-20T08:17:55.920Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-20T08:17:56.904Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-20T08:17:57.416Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2013-03-20T08:18:40.941Z"}
