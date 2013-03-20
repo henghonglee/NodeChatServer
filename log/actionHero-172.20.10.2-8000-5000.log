@@ -55,3 +55,25 @@
 {"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-24T07:26:00.785Z"}
 {"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-02-24T12:08:05.588Z"}
 {"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-24T13:47:20.300Z"}
+{"level":"notice","message":"connected to redis @ pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com:11642 on DB #0","timestamp":"2013-03-20T07:15:04.217Z"}
+{"level":"notice","message":"server ID: 172.20.10.2:8000:5000","timestamp":"2013-03-20T07:15:05.228Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-20 15:15:04 ***","timestamp":"2013-03-20T07:15:05.228Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T07:15:10.806Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-20T07:15:25.935Z"}
+{"to":"127.0.0.1","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-20T07:16:10.316Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:16:16.271Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:16:37.102Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:17:12.908Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T07:17:23.917Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:17:31.699Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:17:35.746Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:17:41.962Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T07:17:52.543Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:17:54.346Z"}
+{"level":"error","message":"peer: 172.20.10.2:8000:5000 has gone away","timestamp":"2013-03-20T07:18:00.165Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:18:01.498Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:18:09.753Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-20T07:18:23.456Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-20T07:18:47.218Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-20T07:18:47.677Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-20T07:18:48.204Z"}

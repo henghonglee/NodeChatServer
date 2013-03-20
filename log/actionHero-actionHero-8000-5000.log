@@ -74,3 +74,8 @@
 {"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-02-25T14:12:21.263Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-02-25T14:12:21.269Z"}
 {"to":"127.0.0.1","level":"info","message":"[ disconnect @ socket ]","timestamp":"2013-02-25T14:12:21.271Z"}
+{"level":"notice","message":"connected to redis @ 127.0.0.1:6379 on DB #0","timestamp":"2013-03-08T15:16:44.293Z"}
+{"level":"notice","message":"server ID: actionHero:8000:5000","timestamp":"2013-03-08T15:16:44.355Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-08 23:16:44 ***","timestamp":"2013-03-08T15:16:44.355Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-08T15:17:50.724Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-08T15:17:50.764Z"}
