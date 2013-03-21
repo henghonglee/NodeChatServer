@@ -16,16 +16,25 @@ Install instructions
     npm start
     
 Connect using:
+
     nc localhost 5000
     
 fb_name param is used to determine your nickname
+
     paramsAdd fb_name=<your-name-here>
     
 iOS device_token is for upload of device token for push notification services
+
     paramsAdd device_token=<your-device-token>
     
 Room change (default NodeChatiOSClient uses only Lobby as room)
+
     roomChange <room-name>
     
 Leave Room , stops listening on room and stops recieving push notifications
+
     leaveRoom <room-name>
+    
+Say message in current room
+
+    say <message>
