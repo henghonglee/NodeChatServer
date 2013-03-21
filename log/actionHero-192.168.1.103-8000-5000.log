@@ -29,3 +29,28 @@
 {"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-21T03:55:39.100Z"}
 {"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-21T03:55:39.694Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-21T03:55:39.937Z"}
+{"level":"notice","message":"connected to redis @ 54.225.247.34:6379 on DB #0","timestamp":"2013-03-21T04:19:20.809Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:21.320Z"}
+{"level":"notice","message":"server ID: 192.168.1.103:8000:5000","timestamp":"2013-03-21T04:19:21.816Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-21 12:19:20 ***","timestamp":"2013-03-21T04:19:21.816Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:27.087Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:32.901Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:38.767Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:44.578Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:50.513Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:19:56.320Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:20:02.377Z"}
+{"to":"192.168.1.122","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-21T04:20:03.242Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-21T04:20:04.575Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-21T04:20:04.579Z"}
+{"level":"notice","message":"connected to redis @ 54.225.247.34:6379 on DB #0","timestamp":"2013-03-21T04:23:52.611Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:23:53.267Z"}
+{"level":"notice","message":"server ID: 192.168.1.103:8000:5000","timestamp":"2013-03-21T04:23:53.902Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-21 12:23:52 ***","timestamp":"2013-03-21T04:23:53.902Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:23:59.214Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:24:05.021Z"}
+{"to":"192.168.1.122","level":"info","message":"[ connect @ socket ]","timestamp":"2013-03-21T04:24:09.758Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T04:24:10.783Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-21T04:24:11.247Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-21T04:24:11.250Z"}
+{"level":"info","message":"on raw data","timestamp":"2013-03-21T04:24:11.256Z"}
