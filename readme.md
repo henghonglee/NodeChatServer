@@ -41,4 +41,5 @@ Say message in current room
 
 
 *Create own pem files (certs and keys) for push notification setup*
-Demo server : 54.225.247.34:8000:5000
+
+*Demo server : 54.225.247.34:8000:5000*
