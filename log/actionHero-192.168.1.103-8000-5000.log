@@ -14,3 +14,18 @@
 {"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-21T03:38:22.075Z"}
 {"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-21T03:38:22.358Z"}
 {"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-21T03:38:22.597Z"}
+{"level":"notice","message":"connected to redis @ 54.225.247.34:6379 on DB #0","timestamp":"2013-03-21T03:55:01.732Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T03:55:02.778Z"}
+{"level":"notice","message":"server ID: 192.168.1.103:8000:5000","timestamp":"2013-03-21T03:55:03.653Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-21 11:55:01 ***","timestamp":"2013-03-21T03:55:03.653Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-21T03:55:06.197Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-21T03:55:06.541Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-21T03:55:06.874Z"}
+{"level":"notice","message":"connected to redis @ 54.225.247.34:6379 on DB #0","timestamp":"2013-03-21T03:55:27.521Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T03:55:28.179Z"}
+{"level":"notice","message":"server ID: 192.168.1.103:8000:5000","timestamp":"2013-03-21T03:55:28.704Z"}
+{"level":"notice","message":"*** Server Started @ 2013-03-21 11:55:27 ***","timestamp":"2013-03-21T03:55:28.705Z"}
+{"level":"error","message":"peer: 10.242.217.146:8000:5000 has gone away","timestamp":"2013-03-21T03:55:33.960Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2013-03-21T03:55:39.100Z"}
+{"level":"error","message":"Error removing myself from the peers list","timestamp":"2013-03-21T03:55:39.694Z"}
+{"level":"alert","message":"The actionHero has been stopped","timestamp":"2013-03-21T03:55:39.937Z"}
