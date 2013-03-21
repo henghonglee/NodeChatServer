@@ -1,13 +1,12 @@
 NodeChatServer
-
+-
 TCP based implementation of mobile chat engine built on the ActionHero Framework
 
 Features include:
 - Channels
 - Redis Pub/Sub system
 - Push notifications
-- Scalable database, HTTP client capabilites with ActionHero Framework
-- 
+- Scalable database, HTTP client capabilites with ActionHero Framework 
 
 Install instructions
 
