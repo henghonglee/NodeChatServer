@@ -1,2 +1,4 @@
 .nide
 .elasticbeanstalk/
+.tcpnode/certs/sscert.pem
+.tcpnode/certs/sskey.pem
