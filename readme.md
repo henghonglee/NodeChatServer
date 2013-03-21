@@ -1,6 +1,9 @@
 NodeChatServer
 -
 TCP based implementation of mobile chat engine built on the ActionHero Framework
+Chat client for iOS
+https://github.com/henghonglee/NodeChatiOSClient
+
 
 Features include:
 - Channels
