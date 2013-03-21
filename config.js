@@ -79,9 +79,9 @@ configData.logger = {
 
 configData.redis = {
   "enable": true,
-  "host": "pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com",
-  "port": 11642,
-  "password": "december5613",
+  "host": "54.225.247.34",
+  "port": 6379,
+  "password": null,
   "options": null,
   "DB": 0
 };
