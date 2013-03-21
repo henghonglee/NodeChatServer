@@ -14,7 +14,7 @@ Install instructions
     cd <repository_name>
     npm install
     npm start
-    
+
 Connect using:
 
     nc localhost 5000
@@ -38,3 +38,7 @@ Leave Room , stops listening on room and stops recieving push notifications
 Say message in current room
 
     say <message>
+
+
+*Create own pem files (certs and keys) for push notification setup*
+Demo server : 54.225.247.34:8000:5000
