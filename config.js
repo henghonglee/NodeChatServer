@@ -77,22 +77,22 @@ configData.logger = {
 // Redis //
 ///////////
 
-configData.redis = {
-  "enable": true,
-  "host": "pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com",
-  "port": 11642,
-  "password": "december5613",
-  "options": null,
-  "DB": 0
-};
 // configData.redis = {
 //   "enable": true,
-//   "host": "54.225.247.34",
-//   "port": 6379,
-//   "password": null,
+//   "host": "pub-redis-11642.eu-west-1-1.1.ec2.garantiadata.com",
+//   "port": 11642,
+//   "password": "december5613",
 //   "options": null,
 //   "DB": 0
 // };
+configData.redis = {
+  "enable": true,
+  "host": "54.225.247.34",
+  "port": 6379,
+  "password": null,
+  "options": null,
+  "DB": 0
+};
 ///////////////////////////////////////
 // Common HTTP & HTTPS Configuration //
 ///////////////////////////////////////
